@@ -1,1 +1,22 @@
-# Alura
+<h1 align="center">Alura</h1>
+<p align="center">🚧 Em construção 🚧</p>
+
+<p>Repositório de Estudo: Exercícios e Desafios Resolvidos</p>
+
+<h2>🎯Desafios</h2>
+
+- [ ] Alu Games
+- [ ] Amigo Secreto
+- [ ] Carrinho de compras
+- [ ] Ingresso
+- [ ] Sorteador de números
+
+<hr>
+
+### 👩🏽‍💻Autora
+<img style="border-radius: 50%;" src="https://i.imgur.com/n7iVrD1.png" width="100px;" alt=""/>
+ <b>Joice Simão🌱</b>
+<p>Entre em contato!</p>
+<a href="https://www.linkedin.com/in/joice-sim%C3%A3o-leite-520496221/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/joice-sim%C3%A3o-leite-520496221/"></a>
+<a href="https://discord.com/users/876857533036363806" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href = "mailto:joice.simao@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
