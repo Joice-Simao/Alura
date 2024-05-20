@@ -6,7 +6,7 @@
 <h2>🎯Desafios</h2>
 
 - [x] <a href="https://github.com/Joice-Simao/Alura/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Desafios/sorteador-numeros">Sorteador de números</a>
-- [x] AluGames
+- [x] <a href="https://github.com/Joice-Simao/Alura/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Desafios/alugames">Alugames</a>
 - [ ] Amigo Secreto
 - [ ] Carrinho de compras
 - [ ] Ingresso
