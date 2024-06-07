@@ -10,5 +10,6 @@ public class Perfil {
         String nome = scanner.next();
 
         System.out.println("Olá, " + nome + "!");
+        System.out.println("Tudo bem ?");
     }
 }
