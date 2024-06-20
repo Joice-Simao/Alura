@@ -1,7 +1,7 @@
 package org.example;
 
 public class Estudos {
-    public static void main(String[] args){
+    public static void main(Strings[] args){
 
         String anotacoes = "O que eu aprendi A configurar o ambiente de desenvolvimento, instalando a JDK 17 e a IDE IntelliJ;\n" +
                 "As diferenças entre JVM, JRE e JDK:\n" +
