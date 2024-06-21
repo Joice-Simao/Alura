@@ -1,13 +1,13 @@
 let amigos = [];
 
-function adicionar(){   
+function adicionar() {   
     let amigo = document.getElementById('nome-amigo');
     if (amigo.value == ''){
         alert('Informe o nome do amigo')
         return;
     }
 
-    if(amigos.includes(amigo.value)){
+    if(amigos.includes(amigo.value)) {
         alert('Nome já adicionado');
         return;
     }
@@ -15,7 +15,7 @@ function adicionar(){
     let lista = document.getElementById('lista-amigos');
     amigos.push(amigo.value);
 
-    if(lista.textContent == ''){
+    if(lista.textContent == '') {
         lista.textContent = amigo.value;
     }else {
         lista.textContent = lista.textContent + ', ' + amigo.value;

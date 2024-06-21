@@ -1,4 +1,4 @@
-package org.example;
+package desafios;
 
 public class Estudos {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package org.example;
+package desafios;
 
 import java.util.Scanner;
 

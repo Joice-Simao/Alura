@@ -1,4 +1,4 @@
-package org.example;
+package desafios;
 
 public class Subtracao {
     public static void main(String[] args){
