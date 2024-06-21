@@ -1,7 +1,7 @@
 package desafios;
 
 public class Soma {
-    public static void main(String[] args){
+    public static void main(Strings[] args){
 
         int resultado = 10 + 5;
 
