@@ -3,7 +3,7 @@ package desafios;
 import java.util.Scanner;
 
 public class Perfil {
-    public static void main(Strings[] args){
+    public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Informe o seu nome ");

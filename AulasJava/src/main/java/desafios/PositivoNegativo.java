@@ -16,9 +16,12 @@ public class PositivoNegativo {
         System.out.println("Digite um número");
         int numeroDigitado = scanner.nextInt();
 
-        if (numeroDigitado % 2 == 0){
-            System.out.println("Número Par");
+        if (numeroDigitado > 0){
+            System.out.println("Número Positivo");
+        } else if (numeroDigitado < 0){
+            System.out.println("Número Negativo");
         } else
-            System.out.println("Número Impar");
+            System.out.println("Zero é um número neutro");
+
     }
 }

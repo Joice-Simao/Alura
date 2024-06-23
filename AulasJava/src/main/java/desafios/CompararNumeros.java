@@ -8,7 +8,7 @@ package desafios;
 
 import java.util.Scanner;
 
-public class ComparacaoNumeros {
+public class CompararNumeros {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
