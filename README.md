@@ -4,7 +4,7 @@
 
 ## 📃Sobre 
 <p>
-  Este repositório é destinado a resolução de desafios propostos nas aulas do curso da Alura.
+  Este repositório é destinado a resolução de exercicios propostos nas aulas do curso da Alura.
 </p>
 
 ## 🐱‍💻Tecnologias
