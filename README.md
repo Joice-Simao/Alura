@@ -1,21 +1,38 @@
 <div align="center">
-  <img src="https://www.alura.com.br/assets/img/home/alura-logo.1720710818.svg" title="Alura" height="150" width="150" /></a>
+  <img src="https://www.alura.com.br/assets/img/home/alura-logo.1720710818.svg" title="Alura" height="200" width="200" /></a>
 </div>
 
 ## 📃Sobre 
 <p>
-  Este repositório é destinado a resolução de exercicios propostos nas aulas do curso da Alura.
+Este repositório contém os exercícios realizados durante meu curso na Alura. Cada exercício foi desenvolvido com o objetivo de aplicar e consolidar os conhecimentos adquiridos ao longo das aulas.
 </p>
 
-## 🐱‍💻Tecnologias
+## 🐱‍💻Tecnologia
 - Java
 	
-## 🎯Desafios
-- [x] <a href="https://github.com/Joice-Simao/Alura/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Desafios/sorteador-numeros">Sorteador de números</a>
-- [x] <a href="https://github.com/Joice-Simao/Alura/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Desafios/alugames">Alugames</a>
-- [x] <a href="https://github.com/Joice-Simao/Alura/blob/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Desafios/carrinho-compras/js/app.js">Carrinho de compras</a>
-- [x] <a href="https://github.com/Joice-Simao/Alura/tree/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Desafios/ingresso">Compra Ingressos</a>
-- [x] <a href="https://github.com/Joice-Simao/Alura/blob/main/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/Desafios/amigo-secreto/js/app.js">Amigo Secreto</a>
+## 🧩Exercícios
+
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/Banco.java">Banco</a>
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/CambioDolar.java">Câmbio Dolar</a>
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/Casting.java">Casting</a>
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/CompararNumeros.java">Comparar Números</a>
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/Concatenar.java">Concatenar</a>
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/Estudos.java">Estudos</a>
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/Media.java">Média</a>
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/Concatenar.java">Concatenar</a>
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/Multiplicacao.java">Multiplicação</a>
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/ParImpar.java">Par Impar</a>
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/Percentual.java">Percentual</a> 
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/Perfil.java">Perfil</a>
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/PositivoNegativo.java">Positivo Negativo</a>
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/PrimeiraClasse.java">Primeira Classe</a>
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/Soma.java">Soma</a>
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/Strings.java">Strings</a>
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/Subtracao.java">Subtração</a>
+- <a href="https://github.com/Joice-Simao/Alura/blob/main/AulasJava/src/main/java/exercicios/Tabuada.java">Tabuada</a>
+
+## 🎯 Objetivo
+O objetivo deste repositório é servir como um portfólio dos meus progressos e como um recurso de consulta para revisitar os conceitos estudados. Todos os códigos aqui são de minha autoria, seguindo as melhores práticas ensinadas durante o curso.
 
 ## 🤝🏽Contribuição
   Se você deseja contribuir para o projeto ou apenas cloná-lo e testá-lo em seu ambiente local, siga os passos abaixo:
