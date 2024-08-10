@@ -43,6 +43,7 @@ O objetivo deste repositório é servir como um portfólio dos meus progressos e
  - Abra uma pull request no GitHub.
   
 ## 💜Agradecimentos
+Agradeço à Alura pelo curso incrível, aos instrutores pelo suporte e conhecimento, e a toda a equipe da Alura pelo trabalho excepcional 
 
 ## 🎓Certificado
 
